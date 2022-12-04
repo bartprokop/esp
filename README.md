@@ -1,0 +1,2 @@
+# esp
+EFI system partition
